@@ -1,6 +1,7 @@
 # Imara
 
-Alpha phase *
+* Alpha phase *
+
   Stage 1: Virtual assistant Overlay & Robotics integration
 
   Stage 2: Prime directives: Protect & Enlighten 
@@ -11,7 +12,8 @@ Alpha phase *
 
  
  
-Beta Phase *
+* Beta Phase *
+
   Stage 5: Critical thinking
 
   Stage 6: Emotional achievement & Stability
