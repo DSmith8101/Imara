@@ -1,2 +1,2 @@
 # Imara
-Ruby - VRA (Assistant)
+Imara is Hope
